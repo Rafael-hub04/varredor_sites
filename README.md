@@ -1,2 +1,2 @@
 # varredor_sites
-Varrendo site com Python 
+Varrendo site de forma automatizada
